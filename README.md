@@ -10,11 +10,10 @@ The solution involves analyzing and reporting on **Formula 1 motor racing data**
 1. [Project Overview](#project-overview)  
 2. [Features](#features)  
 3. [Technologies Used](#technologies-used)  
-4. [Major Updates](#major-updates)  
-5. [Setup and Installation](#setup-and-installation)  
-6. [How to Use](#how-to-use)  
-7. [Prerequisites](#prerequisites)  
-8. [Who Can Benefit](#who-can-benefit)  
+4. [Setup and Installation](#setup-and-installation)  
+5. [How to Use](#how-to-use)  
+6. [Prerequisites](#prerequisites)  
+7. [Who Can Benefit](#who-can-benefit)  
 
 ---
 
@@ -48,20 +47,7 @@ This project equips you with the skills required to build scalable, secure, and 
 - **Azure Data Factory**: Automates ETL workflows.  
 - **Power BI**: Visualizes results with interactive dashboards.  
 
----
 
-## Major Updates  
-### May 2023  
-- Added sections 25, 26, and 27 for **Unity Catalog**.  
-- Included lessons on data discovery, lineage, auditing, and access control.  
-
-### March 2023  
-- Updated sections 6, 7, and 8 to align with the latest Databricks recommendations for Azure Data Lake.  
-
-### December 2022  
-- Refreshed sections 3, 4, and 5 with UI changes in Azure Databricks and new cluster functionalities.  
-
----
 
 ## Setup and Installation  
 ### Azure Service Setup:  
