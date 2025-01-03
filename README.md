@@ -100,6 +100,34 @@ Follow the project steps outlined below.
 
 ---
 
+# Formula 1 Dashboards
+
+This repository contains dashboards that provide insightful visualizations for Formula 1 teams and drivers. These dashboards were designed to analyze and interpret key performance metrics.
+
+---
+
+## Drivers Dashboard
+
+![Drivers Dashboard](Formula1/Drivers_dashboard.jpg)
+
+This dashboard highlights individual driver performance, including metrics such as lap times, race positions, and season progress.
+
+---
+
+## Team Dashboard
+
+![Team Dashboard](Formula1/Team_dashboard.jpg)
+
+The Team Dashboard focuses on team-level performance, showcasing comparisons between teams, strategy analyses, and overall standings.
+
+---
+
+## Usage
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/your-repo.git
+
 ## Conclusion  
 This project provides an end-to-end guide to building a real-world data engineering pipeline using Azure Databricks. You'll gain practical experience with Delta Lake, Unity Catalog, Azure Data Factory, and Power BI.  
 
