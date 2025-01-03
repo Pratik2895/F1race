@@ -128,6 +128,13 @@ The Team Dashboard focuses on team-level performance, showcasing comparisons bet
    ```bash
    git clone https://github.com/your-username/your-repo.git
 
+# Connect with Me on LinkedIn  
+
+If you have any questions or would like to connect, feel free to reach out:  
+
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pratikbhikadiya/)
+   
+
 ## Conclusion  
 This project provides an end-to-end guide to building a real-world data engineering pipeline using Azure Databricks. You'll gain practical experience with Delta Lake, Unity Catalog, Azure Data Factory, and Power BI.  
 
